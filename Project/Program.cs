@@ -10,10 +10,11 @@ class Program
         bool running = true;
         while (running)
         {
-            Console.WriteLine("Choose an option:");
+            Console.WriteLine("\nChoose an option:");
             Console.WriteLine("1. Add Employee");
             Console.WriteLine("2. Display All Employees");
-            Console.WriteLine("3. Exit");
+            Console.WriteLine("3. Remove Employee by ID");
+            Console.WriteLine("4. Exit");
             var option = Console.ReadLine();
 
             switch (option)
@@ -25,6 +26,9 @@ class Program
                     hrDepartment.DisplayAllEmployees();
                     break;
                 case "3":
+                    RemoveEmployeeById();
+                    break;
+                case "4":
                     running = false;
                     break;
                 default:
@@ -34,6 +38,13 @@ class Program
         }
 
         SaveEmployees();
+    }
+
+    static void RemoveEmployeeById()
+    {
+        Console.WriteLine("Enter Employee ID to remove:");
+        string id = Console.ReadLine();
+        hrDepartment.RemoveEmployee(id);
     }
 
     static void LoadExistingEmployees()
