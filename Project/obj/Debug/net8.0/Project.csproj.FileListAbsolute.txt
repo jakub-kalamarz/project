@@ -1,0 +1,14 @@
+/Users/kuba/Desktop/project/Project/bin/Debug/net8.0/Project
+/Users/kuba/Desktop/project/Project/bin/Debug/net8.0/Project.deps.json
+/Users/kuba/Desktop/project/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/Users/kuba/Desktop/project/Project/bin/Debug/net8.0/Project.dll
+/Users/kuba/Desktop/project/Project/bin/Debug/net8.0/Project.pdb
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.dll
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/refint/Project.dll
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.pdb
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/Users/kuba/Desktop/project/Project/obj/Debug/net8.0/ref/Project.dll

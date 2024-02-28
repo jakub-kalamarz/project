@@ -1,0 +1,2 @@
+1,Adam,Kowalski,14000
+2,Jan,Nowak,100,160
